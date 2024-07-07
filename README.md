@@ -10,7 +10,7 @@
 
 ## 📌 Overview
 
-That's a message sentiment analysis chat integrated with Meaning Cloud. 
+That's a message sentiment analysis chat integrated with Meaning Cloud API. 
 
 ## 🔧 Technologies
 
